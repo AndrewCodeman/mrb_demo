@@ -1,0 +1,21 @@
+{
+    "name": "codeman/mrb",
+    "type": "project",
+    "description": "An extremely simple naked PHP application",
+    "keywords": ["skeleton", "boilerplate", "naked", "barebone", "application"],
+    "homepage": "https://github.com/codeman/mrb",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrei `Codeman` Rasskazov",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/panique/mrb/issues",
+        "source": "https://github.com/panique/mrb"
+    },
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
